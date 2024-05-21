@@ -41,6 +41,4 @@ Display Upcoming Birthdays: Select "Display Upcoming Birthdays" from the "Birthd
 Contributions
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
 
-Contact
-For any questions or suggestions, please open an issue on GitHub.
 
